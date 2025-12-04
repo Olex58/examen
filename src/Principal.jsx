@@ -44,7 +44,7 @@ function Principal()
 {
     return(
         <div className="cabecera">
-            <h1>Titulo</h1>
+            <h1>Titulo mierda</h1>
                  <nav class="navbar navbar-expand-lg">
                     <div class="container-fluid">
                         <a class="navbar-brand">MENÚ</a>
